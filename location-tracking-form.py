@@ -4,7 +4,7 @@ import random
 import time
 import pyautogui
 
-sectionThreeDict = {4301:'L L Yi', 4302:'L Z Ting', 4303: 'J J Teo', 4304: 'MD Fathur', 4305: 'N Abraham', 4306:'K K Lechemanam', 4307: 'Z W Ng', 4308: 'R V Raj', 4309:'N B Nahar', 4310: 'Z C Rodrigues', 4311: 'O N Dave', 4312: 'D Carlos'} 
+sectionThreeDict = {4301:'L L Yi', 4302:'L Z Ting', 4303: 'J J Teo', 4304: 'MD Fathur', 4305: 'N Abraham', 4306:'K K Lechemanam', 4307: 'Z W Ng', 4308: 'R V Raj', 4309:'N B Nahar', 4310: 'Z C Rodrigues', 4311: 'O N Dave', 4312: 'D Carlos',4201:'Gandhi',4202:'Wang X D', 4203:'Cao Z J',4204:'Nyam W L',4205:'Shan W K',4206:'Phang J Y',4207: 'Ang Z J', 4209: 'Lim K H',4210:'Gan W H',4213: 'Pramit'} 
 Time = input("What time is it? (24hr format): ")
 ClockTime = int(Time)
 for num in sectionThreeDict.keys():

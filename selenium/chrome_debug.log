@@ -1,0 +1,2 @@
+[61116:21076:0508/062420.461:ERROR:browser_switcher_service.cc(238)] XXX Init()
+[61116:21076:0508/062427.914:INFO:CONSOLE(1)] "Application Cache API use is deprecated and will be removed in M82, around April 2020. See https://www.chromestatus.com/features/6192449487634432 for more details.", source: https://web.whatsapp.com/app.c7929dae1df9f428d8c7.js (1)
